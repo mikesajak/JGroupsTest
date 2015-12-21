@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.jgroups:jgroups:3.6.6.Final" type="repository">
+    <properties maven-id="org.jgroups:jgroups:3.6.6.Final" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jgroups/jgroups/3.6.6.Final/jgroups-3.6.6.Final.jar!/" />
+      <root url="jar:///usr/lib/jvm/java-8-oracle/lib/tools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jgroups/jgroups/3.6.6.Final/jgroups-3.6.6.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
